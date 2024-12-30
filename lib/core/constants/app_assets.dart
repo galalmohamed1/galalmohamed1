@@ -1,0 +1,32 @@
+abstract class AppAssets {
+  static String background_splash = "assets/images/background-splas.png";
+  static String background_QuranPage = "assets/images/Background_homepage.png";
+  static String background_HadithPage = "assets/images/Background_hadith.png";
+  static String background_SephaPage = "assets/images/Background_sepha.png";
+  static String background_RadioPage = "assets/images/Background_radio.png";
+  static String background_TimePage = "assets/images/Background_time.png";
+  static String icon_glow = "assets/icons/Glow.png";
+  static String icon_islami = "assets/icons/icon-islami.png";
+  static String icon_Route = "assets/icons/icon-Route.png";
+  static String icon_splash = "assets/icons/icon-splash.png";
+  static String icon_text_islami = "assets/icons/Islami.png";
+  static String icon_Mosque = "assets/icons/Mosque.png";
+  static String icon_shape_right = "assets/icons/Shape-04 1.png";
+  static String icon_shape_left = "assets/icons/Shape-left.png";
+  static String icone_quran = "assets/icons/Quran.png";
+  static String icone_hadith = "assets/icons/hadith.png";
+  static String icone_sepha = "assets/icons/sepha.png";
+  static String icone_radio = "assets/icons/radio.png";
+  static String icone_time = "assets/icons/time.png";
+  static String image_Welcome = "assets/images/Group.png";
+  static String image_mosque = "assets/images/Frame 1.png";
+  static String image_Quran = "assets/images/Frame 2.png";
+  static String image_prayer = "assets/images/Frame 3.png";
+  static String image_radio = "assets/images/Frame 4.png";
+  static String image_AlAnbiya = "assets/images/Al-Anbiya.png";
+  static String image_Sura_Number1 = "assets/images/Sura Number(1).png";
+  static String image_Sura_Number2 = "assets/images/Sura Number(2).png";
+  static String image_Sura_Number3 = "assets/images/Sura Number(3).png";
+  static String image_Sura_Number4 = "assets/images/Sura Number (4).png";
+  static String image_Sura_Number5 = "assets/images/Sura Number (5).png";
+}
